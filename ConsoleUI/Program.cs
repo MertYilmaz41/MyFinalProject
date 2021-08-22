@@ -24,6 +24,8 @@ namespace ConsoleUI
             {
                 Console.WriteLine(category.CategoryName);
             }
+
+            Console.WriteLine("-------------------------------------------------------------------");
         }
 
         private static void ProductTest()
@@ -44,6 +46,8 @@ namespace ConsoleUI
             {
                 Console.WriteLine(result.Message);
             }
+
+            
 
 
         }
