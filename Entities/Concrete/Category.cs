@@ -11,5 +11,6 @@ namespace Entities.Concrete
         //Çıplak Class Kalmasın
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
+        public int Sayi { get; set; }
     }
 }
